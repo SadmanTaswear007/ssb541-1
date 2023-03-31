@@ -1,2 +1,2 @@
 # ssb541-1
-ssb541 html plugin aos
+https://sadmant.github.io/ssb541-1/
